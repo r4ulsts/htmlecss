@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <title>Hierarquia de Títulos</title>
+</head>
+<body>
+    <h1>Entendendo Portugal</h1>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facilis dolores eligendi pariatur ipsum. Neque ab laborum non quibusdam, aliquam, voluptates est iure vero quisquam unde officiis, incidunt aliquid fuga quaerat?</p>
+    <h2>Introdução</h2>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facilis dolores eligendi pariatur ipsum. Neque ab laborum non quibusdam, aliquam, voluptates est iure vero quisquam unde officiis, incidunt aliquid fuga quaerat?</p>
+    <h3>Justificação da temática</h3>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facilis dolores eligendi pariatur ipsum. Neque ab laborum non quibusdam, aliquam, voluptates est iure vero quisquam unde officiis, incidunt aliquid fuga quaerat?</p>
+    <h3>Caráter excecional</h3>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eaque, mollitia distinctio cumque ratione inventore, expedita labore veritatis, nam asperiores ipsum quaerat nobis corporis vero rerum libero temporibus. Quaerat, optio facilis!</p>
+    <h3>Perguntas de partida</h3>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam saepe quos, deleniti, dicta asperiores nobis minima iure quibusdam quasi sed, totam sequi soluta harum inventore mollitia nesciunt. Deleniti, corrupti repellendus.</p>
+    <h3>Metodologia de investigação</h3>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Assumenda numquam repellendus nisi suscipit animi in fuga deserunt vitae magni officiis facilis ea corporis rem, fugiat officia reiciendis. Soluta, fugiat reprehenderit?</p>
+    <h2>Ordenamento do teritório em Portugal</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium impedit commodi cum, ea, enim, harum molestias magni dolorum rerum excepturi et a adipisci consequuntur minus dolore explicabo veniam eius blanditiis?</p>
+</body>
+</html>
